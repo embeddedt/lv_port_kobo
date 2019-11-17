@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/*.o": true
+    },
+    "files.associations": {
+        "*.inc": "makefile",
+        "kobo_fb.h": "c",
+        "lv_gc.h": "c",
+        "lvgl.h": "c"
+    }
+}
